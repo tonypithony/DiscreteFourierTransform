@@ -13,5 +13,5 @@
 ## Sources
 
 * [Преобразования Фурье для обработки сигналов с помощью Python](https://proglib.io/p/preobrazovaniya-fure-dlya-obrabotki-signalov-s-pomoshchyu-python-2020-11-03)
-* [https://proglib.io/p/preobrazovaniya-fure-dlya-obrabotki-signalov-s-pomoshchyu-python-2020-11-03](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.wavfile.read.html)
+* [scipy.io.wavfile.read](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.wavfile.read.html)
 * [Python | Быстрое преобразование Фурье](http://espressocode.top/python-fast-fourier-transformation/)
